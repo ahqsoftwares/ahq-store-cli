@@ -11,7 +11,7 @@ console.log(`
 ██║░░██║██║░░██║░╚═██╔═╝░  ██████╔╝░░░██║░░░╚█████╔╝██║░░██║███████╗  ╚█████╔╝███████╗██║
 ╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░  ╚═════╝░░░░╚═╝░░░░╚════╝░╚═╝░░╚═╝╚══════╝  ░╚════╝░╚══════╝╚═╝`);
 
-console.log(chalk.green("This cli tool will only be useful & documented only after the release of v1. So CLI v0.99.999"));
+console.log(chalk.green("This cli tool will only be useful & documented only after the release of v1. Hence, CLI v0.99.9999"));
 console.log(chalk.yellow("The above info won't appear after v1 of the AHQ Store is released"));
 
 (async() => {

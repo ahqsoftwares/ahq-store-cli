@@ -1,6 +1,6 @@
 {
   "name": "ahq-store-cli",
-  "version": "0.99.999",
+  "version": "0.99.9999",
   "description": "The AHQ Store Cli Tool",
   "main": "./src/astore_cli.js",
   "type": "module",
